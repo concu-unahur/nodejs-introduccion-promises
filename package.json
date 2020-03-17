@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-promises-introduccion",
+  "version": "1.0.0",
+  "description": "Introducción a promises en NodeJS",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/concu-unahur/nodejs-introduccion-promises.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Federico Aloi <federico.aloi@gmail.com>",
+  "license": "MIT"
+}
